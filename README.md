@@ -1,0 +1,1 @@
+In this project, we trained and evaluated different models to predict the number of taxi orders given a time series dataset.we have trained and evaluate a model for a taxi company that will predict the amount of taxi orders needed at airports. The RMSE metric will be used for the test evaluation. 
